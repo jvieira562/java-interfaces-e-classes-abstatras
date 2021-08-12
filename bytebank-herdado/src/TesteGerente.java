@@ -5,9 +5,10 @@ public class TesteGerente {
 
 		Gerente g1 = new Gerente();
 		SistemaInterno si = new SistemaInterno();
+		Administrador admin = new Administrador();
 
-		g1.setSenha(4321);
-		si.autentica(g1);
+		admin.setSenha(4321);
+		si.autentica(admin);
 
 	}
 
