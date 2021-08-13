@@ -1,4 +1,7 @@
-
+/**
+ * @author José Victor Santos V
+ *
+ */
 public class ContaPoupanca extends Conta {
 
 	public ContaPoupanca(int agencia, int numero) {

@@ -1,5 +1,7 @@
-
-
+/**
+ * @author José Victor Santos V
+ *
+ */
 public abstract class Conta {
 
     protected double saldo;

@@ -1,5 +1,7 @@
-
-
+/**
+ * @author José Victor Santos V
+ *
+ */
 public class Cliente {
 
     private String nome;

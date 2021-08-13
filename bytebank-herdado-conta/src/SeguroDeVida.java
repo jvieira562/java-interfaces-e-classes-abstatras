@@ -1,4 +1,7 @@
-
+/**
+ * @author José Victor Santos V
+ *
+ */
 public class SeguroDeVida implements Tributavel {
 
 	@Override

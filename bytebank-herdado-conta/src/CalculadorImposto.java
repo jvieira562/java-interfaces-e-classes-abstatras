@@ -1,4 +1,7 @@
-
+/**
+ * @author José Victor Santos V
+ *
+ */
 public class CalculadorImposto {
 
 	private double totalImposto;

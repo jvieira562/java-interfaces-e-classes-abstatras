@@ -1,5 +1,7 @@
-
-//new ContaCorrente()
+/**
+ * @author José Victor Santos V
+ *
+ */
 public class ContaCorrente extends Conta implements Tributavel {
 
 	public ContaCorrente(int agencia, int numero) {
